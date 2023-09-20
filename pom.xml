@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>se.distansakademin</groupId>
 	<artifactId>aws-webapp</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aws-webapp</name>
 	<description>AWS web application</description>
